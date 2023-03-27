@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WM59z9CIitKtaj0K8OTXRNElJ7rpcli9CGPKFGqr/dCoYpgoo3iMI0GRXyQ1aH5MJNw5Q36RtrDC3pwIRq7VdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Leydi\\Documents\\Doc_Leydi\\Universidad\\Universidad 2023_1\\Sistemas Operativos\\Api\\ApisistemasOperativos\\sistemasOperativos\\sistemasOperativos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leydi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Leydi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Leydi\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Leydi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Leydi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Leydi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
